@@ -1,0 +1,16 @@
+body {
+    background-color: #ABEBC6 ;
+}
+#header-text {
+    color: #7D3C98;
+    text-align: center;
+}
+.about-txt {
+    text-align: center;
+}
+#welcome-txt {
+    color: #C0392B;
+}
+.allabout-txt {
+    font-size: larger;
+}
