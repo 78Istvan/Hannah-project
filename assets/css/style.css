@@ -14,3 +14,10 @@ body {
 .allabout-txt {
     font-size: larger;
 }
+#logo-txt {
+    background-color: #7D3C98;
+}
+.bg-dark {
+     background-color: #7D3C98!important;
+
+}
