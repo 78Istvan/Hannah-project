@@ -21,3 +21,15 @@ body {
      background-color: #7D3C98!important;
 
 }
+.footer-txt {
+    background-color: #7D3C98;
+}
+.footer-alt {
+    color: #fff;
+}
+.card-text {
+    color: #7D3C98;
+}
+.row {
+    margin-top: 25px;
+}
