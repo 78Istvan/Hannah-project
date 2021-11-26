@@ -1,34 +1,35 @@
 body {
-    background-color: #ABEBC6 ;
+    background-color: #98C1D9 ;
 }
 #header-text {
-    color: #7D3C98;
+    color: #6969B3;
     text-align: center;
 }
 .about-txt {
     text-align: center;
 }
 #welcome-txt {
-    color: #C0392B;
+    color: #ffffff;
 }
 .allabout-txt {
     font-size: larger;
+    color: #25171A;
 }
 #logo-txt {
-    background-color: #7D3C98;
+    background-color: #6969B3;
 }
 .bg-dark {
-     background-color: #7D3C98!important;
+     background-color: #6969B3!important;
 
 }
 .footer-txt {
-    background-color: #7D3C98;
+    background-color: #6969B3;
 }
 .footer-alt {
     color: #fff;
 }
 .card-text {
-    color: #7D3C98;
+    color: #6969B3;
 }
 .row {
     margin-top: 25px;
@@ -39,6 +40,6 @@ body {
 }
 
 .main_img {
-    height: 70vh;
+    height: 85vh;
     width: 100%;
 }
