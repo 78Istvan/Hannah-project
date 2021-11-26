@@ -33,3 +33,12 @@ body {
 .row {
     margin-top: 25px;
 }
+
+.top_card {
+    height: 15rem;
+}
+
+.main_img {
+    height: 70vh;
+    width: 100%;
+}
